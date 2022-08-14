@@ -1,12 +1,12 @@
 {
-	"group_target": 1398120166,
-	"group_source": 1490302444,
+	"group_target": 1738941922,
+	"group_source": 1688699131,
 	"from_date_active": "20201114",
 	"accounts": [
 		{
-			"phone": "+84XXXX",
-			"api_id": 1234566,
-			"api_hash": "57c6f3c72c2f21676d53be2eXXXXXX"
+			"phone": "+19188014245",
+			"api_id": 10336644,
+			"api_hash": "0f7856e5b471e2b871d2168b3443d57e"
 		}
 	]
 }
